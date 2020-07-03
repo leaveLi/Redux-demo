@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "isOnline": 1
+  },
+  {
+    "id": 2,
+    "isOnline": 0
+  },
+  {
+    "id": 3,
+    "isOnline": 1
+  },
+  {
+    "id": 4,
+    "isOnline": 0
+  }
+]
